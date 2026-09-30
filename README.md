@@ -1,4 +1,4 @@
-# Qian-Zhao1
+# Qian-Zhao
 ## Intro
 Hello! My name is Qian Zhao, previously studied mathematics in UK. Most favorite subject is statistics, especially Bayesian stuffs. Least favorite is analysis, and group theory.
 ## Outside statistics
