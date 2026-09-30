@@ -1,6 +1,6 @@
 # Qian-Zhao1
 ## Intro
-Haloo! My name is Qian Zhao, previously studied mathematics in UK. Most favorite subject is statistics, especially Bayesian stuffs. Least favorite is analysis, and group theory.
+Hello! My name is Qian Zhao, previously studied mathematics in UK. Most favorite subject is statistics, especially Bayesian stuffs. Least favorite is analysis, and group theory.
 ## Outside statistics
 Sometimes I will go to the gym, most of time just stay in flat and find something to relax.
 ## Things need to do these days
@@ -8,4 +8,4 @@ Sometimes I will go to the gym, most of time just stay in flat and find somethin
 - second
 - third
 ## In case somebody apply this course
-[Imperial application](https://www.imperial.ac.uk/study/apply/postgraduate-taughtttttttttttttttt/)
+[Imperial application](https://www.imperial.ac.uk/study/apply/postgraduate-taught/)
